@@ -1,5 +1,4 @@
 # Dark Channel Prior
-## 暗通道先验法
 This repository stores the code of Dark Channel Prior Method. DCP method is mainly used to remove the fog in images.
 
 Reference from Doctor Kaiming He's paper:
