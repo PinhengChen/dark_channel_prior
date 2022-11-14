@@ -1,4 +1,5 @@
-# dark_channel_prior
+# Dark Channel Prior
+# 暗通道先验法
 This repository stores the code of Dark Channel Prior Method.
 
 Reference from Doctor Kaiming He's paper:
