@@ -2,7 +2,7 @@
 Dark Channel Prior (DCP)
 Coded by Pinheng Chen (Pion Chen)
 Last edited time: 2022-11-14
-Jupyter Notebook: 
+Jupyter Notebook: https://github.com/PinhengChen/dark_channel_prior/blob/main/dark_channel_prior.ipynb
 """
 import cv2
 import numpy as np
